@@ -105,8 +105,9 @@
         <div class="about-text">
           <h2>Welcome to <span>Rocky Peak Landscape</span></h2>
           <hr>
-          <p>We strive to offer you the best landscaping experience Utah has to offer.</p>
-          <p>We do everything from landscape design to snow removal and offer a quick service at a reasonable price.</p>
+          
+          <p>The philosophy behind Rocky Peak Landscapes is simple; exceed expectations.  We do this with integrity by caring about our clients, employees and community. We also understand the importance of using the highest quality products and plant material.  Our team of qualified professionals are proud to serve Northern Utah.</p>
+          <p>As a family owned business we realize the value of relationships; the relationship with clients, our employees, and our vendors.  We are in this business because we love it and are passionate about what we do.</p>
           <a href="#services" class="btn btn-custom btn-lg page-scroll">View All Services</a> </div>
       </div>
       <div class="col-xs-12 col-md-3">
