@@ -67,7 +67,7 @@
     <div class="overlay">
       <div class="container">
         <div class="row">
-          <div class="col-md-8 col-md-offset-2 intro-text">
+          <div class="col-xs-12 intro-text">
             <h1>Landscaping Services</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>
               Duis sed dapibus leo nec ornare diam.</p>
