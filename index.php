@@ -90,8 +90,7 @@
         <div class="row">
           <div class="col-xs-12 intro-text">
             <h1>Landscaping Services</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>
-              Duis sed dapibus leo nec ornare diam.</p>
+            <p>A local Utah Landscape company that offers year round services</p>
             <a href="#about" class="btn btn-custom btn-lg page-scroll">More Info</a> </div>
         </div>
       </div>
@@ -104,24 +103,24 @@
     <div class="row">
       <div class="col-xs-12 col-md-6">
         <div class="about-text">
-          <h2>Welcome to <span>Landscaper</span></h2>
+          <h2>Welcome to <span>Rocky Peak Landscape</span></h2>
           <hr>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh.</p>
+          <p>We strive to offer you the best landscaping experience Utah has to offer.</p>
+          <p>We do everything from landscape design to snow removal and offer a quick service at a reasonable price.</p>
           <a href="#services" class="btn btn-custom btn-lg page-scroll">View All Services</a> </div>
       </div>
       <div class="col-xs-12 col-md-3">
         <div class="about-media"> <img src="img/about-1.jpg" alt=" "> </div>
         <div class="about-desc">
           <h3>Garden Care</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis.</p>
+          <p>We offer everything from tilling to watering services and weed removal.</p>
         </div>
       </div>
       <div class="col-xs-12 col-md-3">
         <div class="about-media"> <img src="img/about-2.jpg" alt=" "> </div>
         <div class="about-desc">
           <h3>Lawn Care</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante.</p>
+          <p>Lawn mowing services, fertilizing, sprinkler systems.</p>
         </div>
       </div>
     </div>
@@ -288,20 +287,20 @@
           <div id="testimonial" class="owl-carousel owl-theme">
             <div class="item">
               <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at duis sed dapibus leo nec ornare diam."</p>
-              <p>- John DOE, Parker County, TX</p>
+              <p>- Marcus Allen, Davis County, UT</p>
             </div>
             <div class="item">
-              <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at duis sed dapibus leo nec ornare diam."</p>
+              <p>"Owner"</p>
               <p>- Jenny DOE, Parker County, TX</p>
             </div>
-            <div class="item">
+            <!-- <div class="item">
               <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at duis sed dapibus leo nec ornare diam."</p>
               <p>- John DOE, Parker County, TX</p>
             </div>
             <div class="item">
               <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at duis sed dapibus leo nec ornare diam."</p>
               <p>- John DOE, Parker County, TX</p>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
@@ -321,8 +320,8 @@
         <h3>Address</h3>
         <hr>
         <div class="contact-item">
-          <p>4321 California St,</p>
-          <p>San Francisco, CA 12345</p>
+          <!-- <p>4321 California St,</p> -->
+          <p>Farmington, UT 84025</p>
         </div>
       </div>
       <div class="col-md-4">
@@ -337,8 +336,8 @@
         <h3>Contact Info</h3>
         <hr>
         <div class="contact-item">
-          <p>Phone: +1 123 456 1234</p>
-          <p>Email: info@company.com</p>
+          <p><a href="tel: +1-801-598-9553">Phone: (801)598-9553</a></p>
+          <p><a href="mailto: marcus.daniel.alan@gmail.com">Email: info@company.com</a></p>
         </div>
       </div>
     </div>
