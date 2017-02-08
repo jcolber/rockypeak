@@ -115,7 +115,7 @@
         <div class="about-desc">
           <h3>Lawn Care</h3>
             <ul><br>
-              <li>- Areation</li>
+              <li>- Aeration</li>
               <li>- Fertilization</li>
               <li>- Lawn Mowing</li>
             </ul>
@@ -151,11 +151,11 @@
         <div class="service-desc">
           <h3>Lawn Care</h3>
           <p><ul>
-              <li>Aeration - Helps your grass soak up more water and allows roots to grow deeper for an overall stronger, vigourous growing, healthy lawn.
+              <li>Aeration - Help your grass soak up more water and allows roots to grow deeper for an overall stronger, vigorous growing, healthy lawn.
               </li><br>
-              <li>Fertilization - Allows for a greener, healthier lawn during those long, hot summer days. Your yard will be calling all the neighbors over for a summer barbeque.
+              <li>Fertilization - Allow for a greener, healthier lawn during those long, hot summer days. Your yard will be calling all the neighbors over for a summer barbecue.
               </li><br>
-              <li>Lawn Mowing - Nice, clean, and pristene. We'll make your lawn look like it should be the feature of Home and Garden magazine.
+              <li>Lawn Mowing - Nice, clean, and pristine. We'll make your lawn look like it should be the feature of Home and Garden magazine.
               </li><br>
             </ul></p>
         </div>
@@ -171,15 +171,22 @@
         <div class="service-media"> <img src="img/services/service-3.jpg" alt=" "> </div>
         <div class="service-desc">
           <h3>Tree Care</h3>
+          <ul>
+            <li>Trimming</li>
+            <li>Fertilization</li>
+            <li>Disease Control</li>
+          </ul> 
 
-          <p></p>
         </div>
       </div>
       <div class="col-md-3 text-center">
         <div class="service-media"> <img src="img/services/service-4.jpg" alt=" "> </div>
         <div class="service-desc">
           <h3>Spring & Fall Cleanup</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+          <ul>
+            <li>Pruning</li>
+            <li>Leaf and Branch Removal</li>
+          </ul>
         </div>
       </div>
     </div>
