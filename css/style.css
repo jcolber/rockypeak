@@ -256,6 +256,10 @@ header .intro-text {
 	margin: 10px 10px 40px;
 	text-align: center;
 }
+#services .service-desc li{
+	text-decoration: none;
+	color:white;
+}
 #services h2 {
 	color: #fff;
 }

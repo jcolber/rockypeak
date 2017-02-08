@@ -113,15 +113,25 @@
       <div class="col-xs-12 col-md-3">
         <div class="about-media"> <img src="img/about-1.jpg" alt=" "> </div>
         <div class="about-desc">
-          <h3>Garden Care</h3>
-          <p>We offer everything from tilling to watering services and weed removal.</p>
+          <h3>Lawn Care</h3>
+            <ul><br>
+              <li>- Areation</li>
+              <li>- Fertilization</li>
+              <li>- Lawn Mowing</li>
+            </ul>
+          <p></p>
         </div>
       </div>
       <div class="col-xs-12 col-md-3">
         <div class="about-media"> <img src="img/about-2.jpg" alt=" "> </div>
         <div class="about-desc">
-          <h3>Lawn Care</h3>
-          <p>Lawn mowing services, fertilizing, sprinkler systems.</p>
+          <h3>Garden Care</h3>
+            <ul><br>
+              <li>- Weeding</li>
+              <li>- Tilling</li>
+              <li>- Watering Systems</li>
+            </ul>
+          <p></p>
         </div>
       </div>
     </div>
@@ -140,7 +150,14 @@
         <div class="service-media"> <img src="img/services/service-1.jpg" alt=" "> </div>
         <div class="service-desc">
           <h3>Lawn Care</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+          <p><ul>
+              <li>Aeration - Helps your grass soak up more water and allows roots to grow deeper for an overall stronger, vigourous growing, healthy lawn.
+              </li><br>
+              <li>Fertilization - Allows for a greener, healthier lawn during those long, hot summer days. Your yard will be calling all the neighbors over for a summer barbeque.
+              </li><br>
+              <li>Lawn Mowing - Nice, clean, and pristene. We'll make your lawn look like it should be the feature of Home and Garden magazine.
+              </li><br>
+            </ul></p>
         </div>
       </div>
       <div class="col-md-3 text-center">
@@ -154,7 +171,8 @@
         <div class="service-media"> <img src="img/services/service-3.jpg" alt=" "> </div>
         <div class="service-desc">
           <h3>Tree Care</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+
+          <p></p>
         </div>
       </div>
       <div class="col-md-3 text-center">
@@ -287,21 +305,21 @@
         <div class="col-md-10 col-md-offset-1">
           <div id="testimonial" class="owl-carousel owl-theme">
             <div class="item">
-              <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at duis sed dapibus leo nec ornare diam."</p>
-              <p>- Marcus Allen, Davis County, UT</p>
+              <p>"Great mulch selection and very fast service."</p>
+              <p>- Davey Jones, Davis County, UT</p>
             </div>
             <div class="item">
-              <p>"Owner"</p>
-              <p>- Jenny DOE, Parker County, TX</p>
+              <p>"Great service at a great price!"</p>
+              <p>- Jenny Eisley, Salt Lake County, UT</p>
             </div>
-            <!-- <div class="item">
-              <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at duis sed dapibus leo nec ornare diam."</p>
-              <p>- John DOE, Parker County, TX</p>
+            <div class="item">
+              <p>"My yard looks better than it ever has! Thanks guys!"</p>
+              <p>- Gavin Emarosa, Utah County, UT</p>
             </div>
             <div class="item">
               <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at duis sed dapibus leo nec ornare diam."</p>
-              <p>- John DOE, Parker County, TX</p>
-            </div> -->
+              <p>- Emery Matt, Davis County, TX</p>
+            </div>
           </div>
         </div>
       </div>
@@ -314,31 +332,31 @@
     <div class="section-title text-center">
       <h2>Contact Us</h2>
       <hr>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec.</p>
+      <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec.</p> -->
     </div>
     <div class="col-md-10 col-md-offset-1 contact-info">
       <div class="col-md-4">
         <h3>Address</h3>
         <hr>
         <div class="contact-item">
-          <!-- <p>4321 California St,</p> -->
+          <p>307 South 1100 West</p>
           <p>Farmington, UT 84025</p>
         </div>
       </div>
       <div class="col-md-4">
-        <h3>Working Hours</h3>
+        <h3>Hours</h3>
         <hr>
         <div class="contact-item">
-          <p>Monday-Saturday: 07:00 - 18:00</p>
-          <p>Sunday: CLOSED</p>
+          <p>Monday-Saturday: <br>7:00am - 7:00pm</p>
+          <!-- <p>Sunday: CLOSED</p> -->
         </div>
       </div>
       <div class="col-md-4">
-        <h3>Contact Info</h3>
+        <h3>Contact</h3>
         <hr>
         <div class="contact-item">
-          <p><a href="tel: +1-801-598-9553">Phone: (801)598-9553</a></p>
-          <p><a href="mailto: marcus.daniel.alan@gmail.com">Email: info@company.com</a></p>
+          <p>Phone: <a href="tel: +1-801-598-9553">(801)598-9553</a></p>
+          <p>Email: <a href="mailto: rockypeaklandscape@gmail.com">rockypeaklandscape@gmail.com</a></p>
         </div>
       </div>
     </div>
