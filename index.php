@@ -143,7 +143,7 @@
     <div class="col-md-10 col-md-offset-1 section-title text-center">
       <h2>Our Services</h2>
       <hr>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec.</p>
+      <p>Our price might be cheaper than others, but our quality of service is priceless!</p>
     </div>
     <div class="row">
       <div class="col-md-3 text-center">
@@ -164,7 +164,7 @@
         <div class="service-media"> <img src="img/services/service-2.jpg" alt=" "> </div>
         <div class="service-desc">
           <h3>Landscape Design</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+          <p>From simple yard design, to an art of nature. We can create all types of backyard dreams.</p>
         </div>
       </div>
       <div class="col-md-3 text-center">
@@ -198,7 +198,7 @@
     <div class="section-title text-center center">
       <h2>Project Gallery</h2>
       <hr>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec.</p>
+      <p>We are exited to show off your lawn here!</p>
     </div>
     <div class="categories">
       <ul class="cat">
@@ -317,15 +317,15 @@
             </div>
             <div class="item">
               <p>"Great service at a great price!"</p>
-              <p>- Jenny Eisley, Salt Lake County, UT</p>
+              <p>- Jenny Young, Salt Lake County, UT</p>
             </div>
             <div class="item">
               <p>"My yard looks better than it ever has! Thanks guys!"</p>
               <p>- Gavin Emarosa, Utah County, UT</p>
             </div>
             <div class="item">
-              <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at duis sed dapibus leo nec ornare diam."</p>
-              <p>- Emery Matt, Davis County, TX</p>
+              <p>"They showed up on time and did an amazing job. Rocky Peak has gone above and beyond when caring for my yard."</p>
+              <p>- Emery Matt, Davis County, UT</p>
             </div>
           </div>
         </div>
