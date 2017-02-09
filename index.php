@@ -198,7 +198,7 @@
     <div class="section-title text-center center">
       <h2>Project Gallery</h2>
       <hr>
-      <p>We are exited to show off your lawn here!</p>
+      <p>We're exited to show off your lawn here!</p>
     </div>
     <div class="categories">
       <ul class="cat">
