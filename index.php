@@ -15,17 +15,12 @@
 <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
 
 <!-- Bootstrap -->
-<link rel="stylesheet" type="text/css"  href="css/bootstrap.css">
-<link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.css">
-
-<!-- Slider
-    ================================================== -->
-<link href="css/owl.carousel.css" rel="stylesheet" media="screen">
-<link href="css/owl.theme.css" rel="stylesheet" media="screen">
+<link rel="stylesheet" type="text/css"  href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
 
 <!-- Stylesheet
     ================================================== -->
-<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="css/global.css">
 <link rel="stylesheet" type="text/css" href="css/nivo-lightbox/nivo-lightbox.css">
 <link rel="stylesheet" type="text/css" href="css/nivo-lightbox/default.css">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
@@ -111,7 +106,8 @@
           <a href="#services" class="btn btn-custom btn-lg page-scroll">View All Services</a> </div>
       </div>
       <div class="col-xs-12 col-md-3">
-        <div class="about-media"> <img src="img/about-1.jpg" alt=" "> </div>
+        <div class="about-media"> <img src="img/about-2.jpg" alt="Lawn Care Services"> </div>
+
         <div class="about-desc">
           <h3>Lawn Care</h3>
             <ul><br>
@@ -123,7 +119,7 @@
         </div>
       </div>
       <div class="col-xs-12 col-md-3">
-        <div class="about-media"> <img src="img/about-2.jpg" alt=" "> </div>
+        <div class="about-media"> <img src="img/about-1.jpg" alt="Garden Services"> </div>
         <div class="about-desc">
           <h3>Garden Care</h3>
             <ul><br>
@@ -147,7 +143,7 @@
     </div>
     <div class="row">
       <div class="col-md-3 text-center">
-        <div class="service-media"> <img src="img/services/service-1.jpg" alt=" "> </div>
+        <div class="service-media"> <img src="img/services/service-1.jpg" alt="Lawn Mowing Service/Lawn Care"> </div>
         <div class="service-desc">
           <h3>Lawn Care</h3>
           <p><ul>
@@ -168,7 +164,7 @@
         </div>
       </div>
       <div class="col-md-3 text-center">
-        <div class="service-media"> <img src="img/services/service-3.jpg" alt=" "> </div>
+        <div class="service-media"> <img src="img/services/service-3.jpg" alt="Landscaping Design Services"> </div>
         <div class="service-desc">
           <h3>Tree Care</h3>
           <ul>
@@ -180,7 +176,7 @@
         </div>
       </div>
       <div class="col-md-3 text-center">
-        <div class="service-media"> <img src="img/services/service-4.jpg" alt=" "> </div>
+        <div class="service-media"> <img src="img/services/service-4.jpg" alt="Leaf Cleanup, Tree Trimming"> </div>
         <div class="service-desc">
           <h3>Spring & Fall Cleanup</h3>
           <ul>
@@ -198,7 +194,7 @@
     <div class="section-title text-center center">
       <h2>Project Gallery</h2>
       <hr>
-      <p>We're exited to show off your lawn here!</p>
+      <p>We're exited to show off your Lawn here!</p>
     </div>
     <div class="categories">
       <ul class="cat">
@@ -217,83 +213,83 @@
       <div class="portfolio-items">
         <div class="col-sm-6 col-md-4 lawn">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/01-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/01-large.jpg" title="Landscape Design" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Lorem Ipsum</h4>
+                <h4>Let us design your dream!</h4>
               </div>
-              <img src="img/portfolio/01-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="img/portfolio/01-small.jpg" class="img-responsive" alt="Landscape Design"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 planting">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/02-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/02-large.jpg" title="Flower and Bush Services" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Adipiscing Elit</h4>
+                <h4>Flowers and Hedges</h4>
               </div>
-              <img src="img/portfolio/02-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="img/portfolio/02-small.jpg" class="img-responsive" alt="Flowers anf Bushes"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 lawn">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/03-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/03-large.jpg" title="Flowers" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Lorem Ipsum</h4>
+                <h4>Flowers</h4>
               </div>
-              <img src="img/portfolio/03-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="img/portfolio/03-small.jpg" class="img-responsive" alt="Flowers"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 lawn">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/04-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/04-large.jpg" title="Lawn and Yard Service" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Lorem Ipsum</h4>
+                <h4>Lawn and Yard Service</h4>
               </div>
-              <img src="img/portfolio/04-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="img/portfolio/04-small.jpg" class="img-responsive" alt="Lawn and Yard Service"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 planting">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/05-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/05-large.jpg" title="Decorative Flowers" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Adipiscing Elit</h4>
+                <h4>Decorative Flowers</h4>
               </div>
-              <img src="img/portfolio/05-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="img/portfolio/05-small.jpg" class="img-responsive" alt="Decorative Flowers"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 garden">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/06-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/06-large.jpg" title="Beautiful Landscaping" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Dolor Sit</h4>
+                <h4>Beautiful Landscaping</h4>
               </div>
-              <img src="img/portfolio/06-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="img/portfolio/06-small.jpg" class="img-responsive" alt="Beautiful Landscaping"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 garden">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/07-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/07-large.jpg" title="Flower Arrangements" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Dolor Sit</h4>
+                <h4>Flower Arrangements</h4>
               </div>
-              <img src="img/portfolio/07-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="img/portfolio/07-small.jpg" class="img-responsive" alt="Flower Arrangements"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 lawn">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/08-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/08-large.jpg" title="Professional Tree Service" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Lorem Ipsum</h4>
+                <h4>Professional Tree Service</h4>
               </div>
-              <img src="img/portfolio/08-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="img/portfolio/08-small.jpg" class="img-responsive" alt="Professional Tree Service"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 planting">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/09-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/09-large.jpg" title="Gardening Services" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Adipiscing Elit</h4>
+                <h4>Gardening Services</h4>
               </div>
-              <img src="img/portfolio/09-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="img/portfolio/09-small.jpg" class="img-responsive" alt="Gardening Services"> </a> </div>
           </div>
         </div>
       </div>
@@ -405,18 +401,12 @@
           <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
         </ul>
       </div>
-      <p>&copy; 2017 Rocky Peak Landscape. <!-- Designed by <a href="http://www.joshcolbert.com" rel="nofollow">Josh Colbert</a> --></p>
+      <p>&copy; 2017 Rocky Peak Landscape. Designed by <a href="http://www.joshcolbert.com">Josh Colbert</a></p>
     </div>
   </div>
 </div>
 <script type="text/javascript" src="js/jquery.1.11.1.js"></script> 
-<script type="text/javascript" src="js/bootstrap.js"></script> 
-<script type="text/javascript" src="js/SmoothScroll.js"></script> 
-<script type="text/javascript" src="js/nivo-lightbox.js"></script> 
-<script type="text/javascript" src="js/jquery.isotope.js"></script> 
-<script type="text/javascript" src="js/owl.carousel.js"></script> 
-<script type="text/javascript" src="js/jqBootstrapValidation.js"></script> 
-<script type="text/javascript" src="js/contact_me.js"></script> 
+<script type="text/javascript" src="js/bootstrap.min.js"></script> 
 <script type="text/javascript" src="js/main.js"></script>
 </body>
 </html>
