@@ -401,7 +401,7 @@
               <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
             </ul>
           </div>
-          <p itemscope="name">&copy; 2017 Rocky Peak Landscape.   Designed by <a href="http://www.joshcolbert.com">Josh Colbert</a></p>
+          <p itemscope="name">&copy; 2017 Rocky Peak Landscape. <br> Designed by <a href="http://www.joshcolbert.com">Josh Colbert</a></p>
         </div>
       </div>
     </div>
